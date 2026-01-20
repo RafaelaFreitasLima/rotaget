@@ -9,4 +9,5 @@ func main() {
 /*
 https://gin-gonic.com/pt/docs/
 https://www.youtube.com/watch?v=egvLvs2hmVI
+curl url
 */
