@@ -1,5 +1,5 @@
 package models
 
-type fitness struct {
+type Fitness struct {
 	Status string `json:"status"`
 }
